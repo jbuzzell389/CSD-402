@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JbFlowPane",
+            "request": "launch",
+            "mainClass": "JbFlowPane",
+            "projectName": "module-11_17be3bd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch JbHbox",
+            "request": "launch",
+            "mainClass": "JbHbox",
+            "vmArgs": "--module-path \"C:\\Program Files\\JavaFX\\javafx-sdk-26.0.2\\lib\" --add-modules javafx.controls"
+        }
+    ]
+}
